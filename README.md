@@ -1,6 +1,6 @@
 # 🔁 Arduino Sequential LED Project
 
-This Arduino project creates a **sequential LED lighting effect**, coded in **C++**, where LEDs light up **one after the other** in a smooth and looping pattern. It's a great beginner project to learn about digital output, timing, and basic control structures in Arduino.
+This Arduino project, coded in **C++**, creates a **sequential LED lighting effect**, where LEDs light up **one after the other** in a smooth and looping pattern. It's a great beginner project to learn about digital output, timing, and basic control structures in Arduino.
 
 ---
 
